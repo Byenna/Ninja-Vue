@@ -5,27 +5,28 @@ CodeAlong with the Net Ninja
 
 To learn VUE a bit better I will ask myself the same questions after each assignment.
 
-1 Watch (piece) film
-2 Do the same (by heart)
-3 Write down what you will
+1 Watch (piece of) tutorial 
+2 Write down what you will do
+3 Do it (by heart)
+
 
 #3 What will I do
-- I rendered data on a html file. To do that I had to install Vue.js (npm init) make a vue instance, link my javascript to html and added the vue also on the html with node modules.
+- I will render data on a html file. To do that I had to install Vue.js (npm init) make a vue instance, link my javascript to html and added the vue also on the html with node modules.
 
-- I created a method, let it return a string and rendered it on the html
+- I will create a method, let it return a string and render it on the html
 
-- I passed in a parameter through this method to render different arguments on the page
+- I will pass in a parameter through this method to render different arguments on the page
 
-- After that I added data with the 'this' keyword to the function and rendered it on the page 
+- After that I will add data with the 'this' keyword to the function and rendered it on the page 
 
 #4 What will I do
-- I binded an attribute to render data from the vue instance
+- I will bind an attribute to render data from the vue instance
 
-- I used a v-html directive to reder a html link from the vue instance
+- I will use a v-html directive to reder a html link from the vue instance
 
 
 #5 What will I do
-- I made two buttons, added a v-on:click directive to add or substract a value out of the data with a function from the vue instance
+- I will make two buttons, added a v-on:click directive to add or substract a value out of the data with a function from the vue instance
 
 - I will add again two buttons. Now with a v-on:dblclick that in of decrement with 10
 
