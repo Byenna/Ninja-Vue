@@ -2,6 +2,7 @@ Vue.component('foots', {
 
     data() {
         return {
+            copywright: 'Copywrigth 2022 Juraia Pinas'
 
         }
     },
@@ -15,5 +16,8 @@ Vue.component('foots', {
     },
 
     template: `
+    <footer>
+    <p>{{ copywright }}</p>
+    </footer>
 `
 });

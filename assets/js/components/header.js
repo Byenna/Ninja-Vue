@@ -3,6 +3,7 @@ Vue.component('heads', {
     data() {
         return {
             title: 'Vue Ninjas',
+            
         }
     },
 
@@ -15,7 +16,8 @@ Vue.component('heads', {
     },
 
     template: `
-
+    <header>
     <h1>{{ title }}</h1>
+    </header>
 `
 });

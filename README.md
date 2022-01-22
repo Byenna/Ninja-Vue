@@ -102,4 +102,19 @@ The Net Ninja now is going to use Vue Cli, but I cannot manage to install it. Se
 The upcomming tutorial I try to do without the CLI
 
 #21
-I will set up an root component with three subcomponents containing the heather, footer and a list. 
+- I will set up an root component with three subcomponents containing the heather, footer and a list. 
+
+- I will add the styles from Shaun to the headscomponent
+
+- Then I add a p tag in the footscomponent and render copywright data dynamically. And style it a bit.
+
+- Next I will add content to the ninjascomponent. The contend will be a sort of GRID of ninjas and each ninja is going to be a box. When you select the box you get information of that ninja.
+
+1 paste the data from the github in the ninjascomponent
+2 in the template of the ninjascompinent I will make a div with an id of ninjas. Inside this div I make a ul element.
+3 use v-for to cycle through each on of the ninjas. Output it in a list
+4 also add a clickevent in this list with a negation operater (ninja.show=!ninja.show)
+5 put a h2 in this li tag and print the name (ninja.name)
+6 print the speciality in a h3 element and add a v-show directive and set it equal to the show property
+7 paste the style out of the github repo
+
